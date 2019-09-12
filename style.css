@@ -16,7 +16,7 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
+	color: yellow; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
@@ -25,6 +25,7 @@ p {
 	margin-top: 0; 
 	text-align: justify;
 	font: 400;
+	color: green;
 	}
 h3 { 
 	font: italic bold 1.4em georgia, sans-serif;
